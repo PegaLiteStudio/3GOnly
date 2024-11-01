@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3G Only</string>
+    <string name="set_5g_only">Set 3G Only</string>
+    <string name="note_this_may_not_work_for_airtel_india_users">NOTE\nMake Sure You Have 3G Signal on Your Area!</string>
+    <string name="_1_click_on_set_preferred_network_type_dropdown">1. Click on \'Set preferred network type\' dropdown</string>
+    <string name="_2_select_nr_only_option">2. Select \'WCDMA Only\' option</string>
+
+    <!--    Sample AD IDs-->
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
